@@ -45,11 +45,12 @@
 </div>
 
 
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PhelipeDurval/PhelipeDurval/output/snake.svg" alt="Snake animation" />
+
 
 ###
+
