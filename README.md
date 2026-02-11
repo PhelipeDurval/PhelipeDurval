@@ -2,7 +2,8 @@
 
 ###
 
-<img "  />
+<img align="right" height="235" src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/camisa_corinthians_1-e1724771296103.png?w=1200&h=1200&crop=1"  />
+
 
 ###
 
